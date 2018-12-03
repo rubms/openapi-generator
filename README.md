@@ -513,6 +513,7 @@ Here are some companies/projects (alphabetical order) using OpenAPI Generator in
 - [Klarna](https://www.klarna.com/)
 - [Myworkout](https://myworkout.com)
 - [Raiffeisen Schweiz Genossenschaft](https://www.raiffeisen.ch)
+- [Recreativos Franco](http://www.rfranco.com/)
 - [RepreZen API Studio](https://www.reprezen.com/swagger-openapi-code-generation-api-first-microservices-enterprise-development)
 - [REST United](https://restunited.com)
 - [Suva](https://www.suva.ch/)
